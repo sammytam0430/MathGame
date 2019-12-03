@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Jeu de maths</string>
+    <string name="global_math_game">Jeu Global Math</string>
+    <string name="answer">Réponse</string>
+    <string name="what_is">Quel est :</string>
+    <string name="_0_5">0/5</string>
+    <string name="you_current_score_is">Votre score actuel est :</string>
+    <string name="reset">Remettre</string>
+    <string name="_100">100</string>
+    <string name="times">*</string>
+    <string name="result">Résultat</string>
+    <string name="next">Prochain</string>
+    <string name="correct">Correct!</string>
+    <string name="wrong">FAUX!</string>
+    <string name="your_score_is">Ton score est :</string>
+</resources>
